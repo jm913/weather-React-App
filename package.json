@@ -1,7 +1,6 @@
 {
   "name": "myproject",
   "version": "0.1.0",
-  "homepage": "https://jm913.github.io/weather-React-App",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
